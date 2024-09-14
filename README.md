@@ -1,2 +1,2 @@
-# Niki_dinda
+#codesoft
 this is my first repo
